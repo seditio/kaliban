@@ -1,0 +1,148 @@
+/* 0. Elements
+-------------------------------------------------- */
+
+body		{ color:#444; font-family:'Roboto'; font-weight:400; background:#fff; }
+
+	a		{ transition:all .4s ease; }
+
+/* 1. Main Elements
+-------------------------------------------------- */
+
+
+	
+/* 1.1. Header
+-------------------------------------------------- */
+
+
+	
+/* 1.2. Footer
+-------------------------------------------------- */
+
+
+
+/* 1.3. Misc Elements
+-------------------------------------------------- */
+
+
+	
+/* 2. Navigation
+-------------------------------------------------- */
+
+
+/* 3. Headings
+-------------------------------------------------- */
+
+
+
+/* 4. Tables
+-------------------------------------------------- */
+
+
+
+/* 5. Forms
+-------------------------------------------------- */
+
+form *						{ font-size:.8rem; }
+	.input-group *			{ font-size:.8rem; }
+	input.form-control		{ font-size:.8rem; }
+	select.form-control		{ font-size:.8rem; }
+	textarea.form-control	{ font-size:.8rem; }
+	
+	label					{ margin-bottom:.25rem; }
+	
+/* 6. Sliders
+-------------------------------------------------- */
+
+
+
+/* 7. Lists
+-------------------------------------------------- */
+
+
+	
+/* 8. Shop
+-------------------------------------------------- */
+
+
+	
+/* 9. Feedback
+-------------------------------------------------- */
+
+
+	
+/* 10. Alerts
+-------------------------------------------------- */
+
+
+
+/* 11. Virtual Attachments
+-------------------------------------------------- */
+
+div.vattach						{ color:#fff; font-size:.8rem; margin:15px 0 0; padding:10px 15px; background:#900; border-radius:2px; }
+	div.vattach span.subtitle	{ font-size:.9rem; font-weight:700; }
+	div.vattach a				{ color:rgba(255,255,255,.85); }
+
+/* 12. Breadcrumbs
+-------------------------------------------------- */
+
+ul.breadcrumb				{ color:#ff3c20; font-size:.8125rem; margin:0; padding:0 0 1.25rem; background:none; border-radius:0; }
+	ul.breadcrumb > li		{  }
+	ul.breadcrumb > li > a	{ color:#999; }
+
+/* 13. Images
+-------------------------------------------------- */
+
+
+
+/* 14. Social
+-------------------------------------------------- */
+
+li.vk a		{ color:#45668e; }
+li.fb a		{ color:#3b5998; }
+li.tw a		{ color:#00aced; }
+li.gp a		{ color:#dd4b39; }
+li.ok a		{ color:#ce782f; }
+li.ln a		{ color:#517fa4; }
+li.ig a		{ color:/*#3f729b*/#e3569a; }
+li.rs a		{ color:#de8d23; }
+li.yt a		{ color:#dc4a3d; }
+
+ul.back li.vk a		{ background:#45668e; }
+ul.back li.fb a		{ background:#3b5998; }
+ul.back li.tw a		{ background:#00aced; }
+ul.back li.gp a		{ background:#dd4b39; }
+ul.back li.ok a		{ background:#ce782f; }
+ul.back li.ln a		{ background:#517fa4; }
+ul.back li.ig a		{ background:/*#3f729b*/#e3569a; }
+ul.back li.rs a		{ background:#de8d23; }
+ul.back li.yt a		{ background:#dc4a3d; }
+
+/* 15. Magnific Popup
+-------------------------------------------------- */
+
+
+
+/* 16. Isotope
+-------------------------------------------------- */
+
+
+
+/* 99. Misc
+-------------------------------------------------- */
+
+.hidehide		{ display:none; }
+.hidden			{ display:none!important; }
+
+div.textbox			{ font-size:.875rem; font-weight:300; line-height:1.4; }
+	div.textbox > *	{ margin:0 0 .35rem; }
+	div.textbox a	{ color:#ff3c20; text-decoration:underline; }
+	
+div#map				{ height:100%; min-height:500px; width:100%; position:relative; }
+	div#map_cover	{ height:100%; width:100%; background:rgba(255,255,255,.5); position:absolute; top:0; left:0; z-index:3; }
+	div#map_cover a	{ font-size:.875rem; font-weight:700; text-align:center; text-transform:uppercase; margin:-1rem 0 0 -5.625rem; width:11.25rem; position:absolute; top:50%; left:50%; }
+
+a#ontop				{ color:#fff; font-size:1.5rem; text-align:center; line-height:3rem; width:3rem; background:#ff3c20; border-radius:4px; display:block; position:fixed; bottom:4rem; right:2rem; opacity:0; transition:all .4s ease-in-out 0s; z-index:200; }
+	a#ontop.vis		{ bottom:2rem; opacity:1; }
+	a#ontop i		{ vertical-align:.25rem; }
+
+

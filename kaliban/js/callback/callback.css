@@ -1,0 +1,7 @@
+#popupform			{ display:none; }
+
+#popupform .error	{ color:#c00000; margin:-10px 0; display:none; }
+
+#popupform input		{ margin:15px 0; }
+#popupform select		{ margin:15px 0; }
+#popupform button		{ margin:15px 0; }

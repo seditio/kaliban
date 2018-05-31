@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=latin,cyrillic-ext);
+
+body		{ color:#fff; font-family:'Roboto Condensed'; font-size:18px; text-align:center; background:#41b0db; }
+
+a			{ color:#fff; text-decoration:none; transition:all .3s; }
+a:hover		{ text-decoration:none; }
+a:focus		{ color:inherit; text-decoration:inherit; outline:none; }
+
+div#w		{ padding:20px; }
+
+span#title	{ font-weight:700; padding:40px 0 80px; display:inline-block; }
+h1			{ font-size:24px; }
+p			{ line-height:22px; padding:30px 0; }
+
+ul				{ margin:0; padding:0; list-style:none; }
+	ul > li		{ display:inline-block; }
+	ul > li > a	{ display:inline-block; }
+	
+	ul#actions				{ margin:0 0 20px; }
+	ul#actions > li			{ margin:8px 0; width:100%; }
+	ul#actions > li > a		{ font-size:16px; font-weight:700; text-align:center; text-transform:uppercase; padding:20px; background:rgba(255,255,255,.2); border-radius:3px; display:block; }
+	ul#actions > li:first-child > a		{ background:rgba(19,21,26,1); }
+	ul#actions > li > a:hover			{ color:#13151a; background:#fff; }
+	
+	ul#social > li				{ margin:0 10px; }
+	ul#social > li > a			{ padding:10px 15px; border-radius:3px; overflow:hidden; }
+	ul#social > li > a > span	{ font-size:36px; float:left; }
+	ul#social > li > a > i		{ font-style:normal; line-height:36px; padding:0 0 0 10px; display:none; float:left; }
+	ul#social > li > a:hover	{ background:rgba(255,255,255,.2); }
+	
+@media (min-width:500px)	{
+	
+	ul#actions				{ margin:0 0 80px; }
+	ul#actions > li			{ margin:0 8px; width:auto; }
+	
+	ul#social > li			{ margin:0 10px; }
+	ul#social > li > a > i	{ display:block; }
+	
+}

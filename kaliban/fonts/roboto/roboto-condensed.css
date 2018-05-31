@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('robotocondensed-light.eot');
+    src: url('robotocondensed-light.eot?#iefix') format('embedded-opentype'),
+         url('robotocondensed-light.woff') format('woff'),
+         url('robotocondensed-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('roboto-condensed.eot');
+    src: url('roboto-condensed.eot?#iefix') format('embedded-opentype'),
+         url('roboto-condensed.woff') format('woff'),
+         url('roboto-condensed.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('roboto-boldcondensed.eot');
+    src: url('roboto-boldcondensed.eot?#iefix') format('embedded-opentype'),
+         url('roboto-boldcondensed.woff') format('woff'),
+         url('roboto-boldcondensed.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/*
+
+@font-face {
+    font-family: 'roboto_condensedlight_italic';
+    src: url('robotocondensed-lightitalic.eot');
+    src: url('robotocondensed-lightitalic.eot?#iefix') format('embedded-opentype'),
+         url('robotocondensed-lightitalic.woff') format('woff'),
+         url('robotocondensed-lightitalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto_cnitalic';
+    src: url('roboto-condenseditalic.eot');
+    src: url('roboto-condenseditalic.eot?#iefix') format('embedded-opentype'),
+         url('roboto-condenseditalic.woff') format('woff'),
+         url('roboto-condenseditalic.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'roboto_cnbold_italic';
+    src: url('roboto-boldcondenseditalic.eot');
+    src: url('roboto-boldcondenseditalic.eot?#iefix') format('embedded-opentype'),
+         url('roboto-boldcondenseditalic.woff') format('woff'),
+         url('roboto-boldcondenseditalic.ttf') format('truetype');
+    font-weight: bold;
+}
+
+*/

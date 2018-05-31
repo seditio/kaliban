@@ -1,0 +1,16 @@
+ul.breadcrumb			{  }
+	ul.breadcrumb li	{  }
+	
+	.breadcrumb-item + .breadcrumb-item::before	{ display:none; }
+	
+	.breadcrumb-item:after				{ content:'/'; color: #6c757d; padding-left:.5rem; padding-right:.5rem; display:inline-block; }
+	.breadcrumb-item:last-child:after	{ display:none; }
+
+table tr:last-child td	{  }
+	table thead th		{  }
+
+label					{  }
+
+div.alert				{  }
+	div.alert h4		{ font-size:1.25rem; }
+	div.alert p			{ font-size:.875rem; margin:0; }

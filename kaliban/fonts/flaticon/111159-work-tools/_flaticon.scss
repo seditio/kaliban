@@ -1,0 +1,137 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:08
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-anchor-navigational-tool:before { content: "\f100"; }
+.flaticon-band-saw:before { content: "\f101"; }
+.flaticon-band-saw-1:before { content: "\f102"; }
+.flaticon-battery-with-positive-and-negative-poles-symbols:before { content: "\f103"; }
+.flaticon-car-key:before { content: "\f104"; }
+.flaticon-chainsaw:before { content: "\f105"; }
+.flaticon-circular-speedometer:before { content: "\f106"; }
+.flaticon-clamp:before { content: "\f107"; }
+.flaticon-compressor:before { content: "\f108"; }
+.flaticon-cutter:before { content: "\f109"; }
+.flaticon-digger:before { content: "\f10a"; }
+.flaticon-disc-brake:before { content: "\f10b"; }
+.flaticon-drill:before { content: "\f10c"; }
+.flaticon-engine:before { content: "\f10d"; }
+.flaticon-filter:before { content: "\f10e"; }
+.flaticon-gasoline:before { content: "\f10f"; }
+.flaticon-glue:before { content: "\f110"; }
+.flaticon-hammer:before { content: "\f111"; }
+.flaticon-hammer-and-screwdriver-tools-cross:before { content: "\f112"; }
+.flaticon-hammer-tool:before { content: "\f113"; }
+.flaticon-level:before { content: "\f114"; }
+.flaticon-light-spot:before { content: "\f115"; }
+.flaticon-magnet:before { content: "\f116"; }
+.flaticon-meter:before { content: "\f117"; }
+.flaticon-oil:before { content: "\f118"; }
+.flaticon-paint-brush:before { content: "\f119"; }
+.flaticon-pin-tool:before { content: "\f11a"; }
+.flaticon-piston:before { content: "\f11b"; }
+.flaticon-plug:before { content: "\f11c"; }
+.flaticon-polisher:before { content: "\f11d"; }
+.flaticon-road-perspective:before { content: "\f11e"; }
+.flaticon-saw:before { content: "\f11f"; }
+.flaticon-saw-1:before { content: "\f120"; }
+.flaticon-saw-half-cogwheel-symbol:before { content: "\f121"; }
+.flaticon-shovel:before { content: "\f122"; }
+.flaticon-shovel-1:before { content: "\f123"; }
+.flaticon-speedometer:before { content: "\f124"; }
+.flaticon-temperature-control:before { content: "\f125"; }
+.flaticon-tiremark:before { content: "\f126"; }
+.flaticon-tool-box:before { content: "\f127"; }
+.flaticon-tool-diagonal-symbol:before { content: "\f128"; }
+.flaticon-tools-window:before { content: "\f129"; }
+.flaticon-two-gears:before { content: "\f12a"; }
+.flaticon-vacuum:before { content: "\f12b"; }
+.flaticon-vent:before { content: "\f12c"; }
+.flaticon-wheelbarrow:before { content: "\f12d"; }
+.flaticon-wood-brush-tool:before { content: "\f12e"; }
+.flaticon-work-tools-cross:before { content: "\f12f"; }
+.flaticon-wrench-and-screwdriver-cross:before { content: "\f130"; }
+    
+    $font-Flaticon-anchor-navigational-tool: "\f100";
+    $font-Flaticon-band-saw: "\f101";
+    $font-Flaticon-band-saw-1: "\f102";
+    $font-Flaticon-battery-with-positive-and-negative-poles-symbols: "\f103";
+    $font-Flaticon-car-key: "\f104";
+    $font-Flaticon-chainsaw: "\f105";
+    $font-Flaticon-circular-speedometer: "\f106";
+    $font-Flaticon-clamp: "\f107";
+    $font-Flaticon-compressor: "\f108";
+    $font-Flaticon-cutter: "\f109";
+    $font-Flaticon-digger: "\f10a";
+    $font-Flaticon-disc-brake: "\f10b";
+    $font-Flaticon-drill: "\f10c";
+    $font-Flaticon-engine: "\f10d";
+    $font-Flaticon-filter: "\f10e";
+    $font-Flaticon-gasoline: "\f10f";
+    $font-Flaticon-glue: "\f110";
+    $font-Flaticon-hammer: "\f111";
+    $font-Flaticon-hammer-and-screwdriver-tools-cross: "\f112";
+    $font-Flaticon-hammer-tool: "\f113";
+    $font-Flaticon-level: "\f114";
+    $font-Flaticon-light-spot: "\f115";
+    $font-Flaticon-magnet: "\f116";
+    $font-Flaticon-meter: "\f117";
+    $font-Flaticon-oil: "\f118";
+    $font-Flaticon-paint-brush: "\f119";
+    $font-Flaticon-pin-tool: "\f11a";
+    $font-Flaticon-piston: "\f11b";
+    $font-Flaticon-plug: "\f11c";
+    $font-Flaticon-polisher: "\f11d";
+    $font-Flaticon-road-perspective: "\f11e";
+    $font-Flaticon-saw: "\f11f";
+    $font-Flaticon-saw-1: "\f120";
+    $font-Flaticon-saw-half-cogwheel-symbol: "\f121";
+    $font-Flaticon-shovel: "\f122";
+    $font-Flaticon-shovel-1: "\f123";
+    $font-Flaticon-speedometer: "\f124";
+    $font-Flaticon-temperature-control: "\f125";
+    $font-Flaticon-tiremark: "\f126";
+    $font-Flaticon-tool-box: "\f127";
+    $font-Flaticon-tool-diagonal-symbol: "\f128";
+    $font-Flaticon-tools-window: "\f129";
+    $font-Flaticon-two-gears: "\f12a";
+    $font-Flaticon-vacuum: "\f12b";
+    $font-Flaticon-vent: "\f12c";
+    $font-Flaticon-wheelbarrow: "\f12d";
+    $font-Flaticon-wood-brush-tool: "\f12e";
+    $font-Flaticon-work-tools-cross: "\f12f";
+    $font-Flaticon-wrench-and-screwdriver-cross: "\f130";

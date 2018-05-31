@@ -1,0 +1,95 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 29/11/2017 10:44
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-001-fence:before { content: "\f100"; }
+.flaticon-002-umbrella:before { content: "\f101"; }
+.flaticon-003-ufo:before { content: "\f102"; }
+.flaticon-004-rose:before { content: "\f103"; }
+.flaticon-005-shirt:before { content: "\f104"; }
+.flaticon-006-passport-1:before { content: "\f105"; }
+.flaticon-007-worldwide-1:before { content: "\f106"; }
+.flaticon-008-passport:before { content: "\f107"; }
+.flaticon-009-cone:before { content: "\f108"; }
+.flaticon-010-time-machine:before { content: "\f109"; }
+.flaticon-011-submarine:before { content: "\f10a"; }
+.flaticon-012-snowman:before { content: "\f10b"; }
+.flaticon-013-poison:before { content: "\f10c"; }
+.flaticon-014-direction:before { content: "\f10d"; }
+.flaticon-015-balance:before { content: "\f10e"; }
+.flaticon-016-robot:before { content: "\f10f"; }
+.flaticon-017-sprout:before { content: "\f110"; }
+.flaticon-018-flower:before { content: "\f111"; }
+.flaticon-019-phone-booth:before { content: "\f112"; }
+.flaticon-020-stopwatch-1:before { content: "\f113"; }
+.flaticon-021-worldwide:before { content: "\f114"; }
+.flaticon-022-barcode:before { content: "\f115"; }
+.flaticon-023-medal-1:before { content: "\f116"; }
+.flaticon-024-medal:before { content: "\f117"; }
+.flaticon-025-wedding-ring:before { content: "\f118"; }
+.flaticon-026-teddy-bear:before { content: "\f119"; }
+.flaticon-027-love-letter:before { content: "\f11a"; }
+.flaticon-028-chocolate-box:before { content: "\f11b"; }
+.flaticon-029-cupid:before { content: "\f11c"; }
+.flaticon-030-charity-1:before { content: "\f11d"; }
+.flaticon-031-charity:before { content: "\f11e"; }
+.flaticon-032-lighter:before { content: "\f11f"; }
+.flaticon-033-idea:before { content: "\f120"; }
+.flaticon-034-meditation:before { content: "\f121"; }
+.flaticon-035-desk-lamp:before { content: "\f122"; }
+.flaticon-036-house:before { content: "\f123"; }
+.flaticon-037-handcuffs:before { content: "\f124"; }
+.flaticon-038-scanner:before { content: "\f125"; }
+.flaticon-039-seeding:before { content: "\f126"; }
+.flaticon-040-rain:before { content: "\f127"; }
+.flaticon-041-marijuana:before { content: "\f128"; }
+.flaticon-042-revolver:before { content: "\f129"; }
+.flaticon-043-electric-guitar:before { content: "\f12a"; }
+.flaticon-044-acoustic-guitar:before { content: "\f12b"; }
+.flaticon-045-razor:before { content: "\f12c"; }
+.flaticon-046-hair-dryer:before { content: "\f12d"; }
+.flaticon-047-gas-mask:before { content: "\f12e"; }
+.flaticon-048-can:before { content: "\f12f"; }
+.flaticon-049-pervert:before { content: "\f130"; }
+.flaticon-050-doorknob:before { content: "\f131"; }
+.flaticon-051-dog:before { content: "\f132"; }
+.flaticon-052-floppy-disk:before { content: "\f133"; }
+.flaticon-053-stopwatch:before { content: "\f134"; }
+.flaticon-054-compass:before { content: "\f135"; }
+.flaticon-055-rgb:before { content: "\f136"; }
+.flaticon-056-notepad:before { content: "\f137"; }
+.flaticon-057-christmas-tree:before { content: "\f138"; }
+.flaticon-058-snow-globe:before { content: "\f139"; }
+.flaticon-059-santa-claus:before { content: "\f13a"; }
+.flaticon-060-gingerbread-man:before { content: "\f13b"; }
+.flaticon-061-candle:before { content: "\f13c"; }
+.flaticon-062-zeppelin:before { content: "\f13d"; }
+.flaticon-063-facial-recognition:before { content: "\f13e"; }
+.flaticon-064-bicycle:before { content: "\f13f"; }
